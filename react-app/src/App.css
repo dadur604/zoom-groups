@@ -1,5 +1,16 @@
 .App {
-  text-align: center;
+}
+
+body {
+	padding-top: 5rem;
+	background-color: #f5f5f5;
+}
+.starter {
+	padding: 3rem 1.5rem;
+	text-align: center;
+}
+.justify {
+	padding: 15px;
 }
 
 .App-logo {
